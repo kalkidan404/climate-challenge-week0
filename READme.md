@@ -21,3 +21,4 @@ pip install -r requirements.txt
 ## Run project
 
 python
+Setup completed for AI challenge
